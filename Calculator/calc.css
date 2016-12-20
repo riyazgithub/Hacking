@@ -12,6 +12,9 @@
 
 .row {
   width: 100%;
+  display: flex;
+  flex-flow: wrap;
+  height: 8.33%;
 }
 .col-1 {
   width: 8.33%;
